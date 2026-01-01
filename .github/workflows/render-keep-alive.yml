@@ -12,3 +12,4 @@ jobs:
       - name: Ping Render App
         run: |
           curl -L -s https://autoscan-backend-15hu.onrender.com > /dev/null
+           curl -L -s https://n8n-pr4a.onrender.com > /dev/null
